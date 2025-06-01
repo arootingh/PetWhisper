@@ -17,7 +17,7 @@ health records, and vaccination schedules.
 - XML
 - Git/GitHub
 
-## My Contributions
+## Contributions
 - Integrated Firebase Authentication and Firestore
 - Developed UI for login, registration, and pet profiles
 - Helped design Firestore data structure
